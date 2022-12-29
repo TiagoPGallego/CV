@@ -1,0 +1,49 @@
+body {
+  font-family: brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+    font-size: 15px;
+    line-height: 1.42857143;
+    color: #545454;
+    background-color: GhostWhite;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: thick;
+  border-color: #CFFDE1;
+  height: 0;
+  width: 50px;
+}
+
+h1{
+  font-family: brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+  color: #1e836c;
+    text-align: center;
+    font-size: 3em;
+    font-weight: 400;
+}
+
+h2{
+  font-family: brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+  font-size: 1.8em;
+    color: #45b29a;
+    font-weight: 500;
+    line-height: 1.1;
+}
+
+h3 {
+  font-family: brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+  font-size: 1.4em;
+    color: #45b29a;
+    font-weight: 300;
+    line-height: 1.1;
+}
+
+b {
+  color: GoldenRod;
+}
+
+::selection{
+  background: #e0ebe8;
+  color: #545454;
+  text-shadow: none;
+}
