@@ -23,6 +23,7 @@ body {
 }
 
 .top-cloud {
+  display: none;
   position: absolute;
   right: 10%;
   top: 0;
@@ -30,6 +31,7 @@ body {
 }
 
 .bottom-cloud {
+  display: none;
   position: absolute;
   left: 8%;
   bottom: 60%;
